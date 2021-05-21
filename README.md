@@ -1,6 +1,4 @@
 # NicholasMajor
-Profile description
-
 Welcome to my profile, here's some information about me:
 
 Projects I'm currently working on: 
