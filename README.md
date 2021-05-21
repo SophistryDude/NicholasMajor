@@ -12,7 +12,7 @@ This program takes input data from the NYSE and the futures market to assess whe
 
 I'm currently learning: SAS, Node.JS, YFinance
 
-I'm looking to collaborate on: Socionics, AI development, Aggregate data analysis, Poker, Humanitarian efforts
+I'm looking to collaborate on: Socionics, AI development, Aggregate data analysis, Poker, Humanitarian efforts and more!
 
 About me:
 
