@@ -16,7 +16,7 @@ I'm looking to collaborate on: Socionics, AI development, Aggregate data analysi
 
 About me:
 
-I went to college for Physics and quickly found out that what I was really interested is an area in Philosphy that focuses on the sciences. I have my degree in Philosphy, and looking to continue my education with a Masters in Philosphy of Science, but along the way I decided to delve into Computer Programming, specifically Data Science. I love delving into systems and big picture applications of abductive reasoning. I'm fascinated by the idea of a universal theory in Physics, the point of singularity in biotech/futuretech, and the incorporation of AI to better our world. 
+I went to college for Physics and quickly found out that what I was really interested in is an area of Philosphy that focuses on the sciences. I have my degree in Philosphy, and looking to continue my education with a Masters in Philosphy of Science, but along the way I decided to delve into Computer Programming, specifically Data Science. I love digging into systems and big picture applications of abductive reasoning. I'm fascinated by the idea of a universal theory in Physics, the point of singularity in biotech/futuretech, and the incorporation of AI to better our world. 
 
 You can contact me at: 
 [Nicholas.c.major@gmail.com](mailto:nicholas.c.major@gmail.com)
